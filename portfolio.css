@@ -1,0 +1,20 @@
+header{
+    margin: 30%;
+    padding: 30vh;
+    margin: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    }
+nav h3{
+font-size: 30px;
+font-family: cursive;
+color: white;
+margin-left: 20px;
+}
+*{
+    background-color: blueviolet;
+}
